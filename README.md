@@ -1,25 +1,19 @@
-# Product Management Skills
+#Erica Rios
 
-A personal library of reusable workflow skills in Markdown format, designed for use with Claude Code and shareable via GitHub.
+Product Management  `skills/` files are structured instructions for a common PM workflows including documenting discovery, writing requirement documents, prioritizing backlogs, and generating roadmaps.
 
-## What's in here
+## About
 
-Each file in `skills/` is a self-contained skill prompt — a structured instruction set for a specific PM workflow (e.g., writing PRDs, running retros, prioritizing a backlog).
+This folder holds agentic skills I'm developing for my own workflows — design,
+prototyping, research, and project context management. Skills here are
+experimental; once refined and discussed with the team, candidates may be
+promoted to `team/`.
 
-## How to use
+## Skills
+- 
 
-1. Browse `skills/` to find a skill that fits your task.
-2. Copy the skill content into a Claude conversation, or reference it directly in your workflow.
-3. Customize as needed — these are starting points, not rules.
-
-## Structure
-
-```
-skills/
-  _template.md        # Copy this to create a new skill
-  <skill-name>.md     # Individual skills
-```
-
-## Contributing / sharing
+## Contributing
 
 Feel free to fork and adapt. If you improve a skill or add a new one, PRs are welcome.
+
+- **[discovery-doc](./pm-discovery/SKILL.md)** — Synthesizes stakeholder transcripts, notes, and supporting artifacts into a structured product discovery document. Surfaces the full opportunity landscape, documents users and jobs to be done, maps current state, and explicitly flags open questions and assumptions.
